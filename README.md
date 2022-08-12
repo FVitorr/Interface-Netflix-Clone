@@ -19,4 +19,5 @@ Esse projeto Teve Intuito de desenvolver:
 <hr>
 💎 Pretendo Inovar os Layouts e Script no decorrer do aprendizado
 <hr>
+
 *[%] Só sei que Nada Sei - Socrates*
